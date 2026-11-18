@@ -10,11 +10,6 @@
    "caption": "Kasım, Erkek Sağlığı Ayı 💙\n\nErkekler de kontrol yaptırır! Prostat kontrolü, testis kendi muayenesi ve ruh sağlığı ihmal edilmemesi gereken üç konu.\nBelirti beklemeden, ertelemeden hekiminize danışın.\n\nBilgilendirme amaçlıdır; tanı ve tedavi için hekiminize danışın.\n\n#samsun #samsundoktorum #sağlık #erkeksağlığı #movember #prostat #kasım"
   },
   {
-   "id": "16",
-   "image": "post-16.jpg",
-   "caption": "Bu belirtileri fark ettiniz mi?\n\nAşırı susama, sık idrara çıkma, geçmeyen yorgunluk, bulanık görme, yaraların geç iyileşmesi… Bunlar diyabetin işaretleri olabilir.\n14 Kasım Dünya Diyabet Günü vesilesiyle hatırlatalım: Kan şekerinizi düzenli ölçtürün. 🩸\n\nBilgilendirme amaçlıdır; tanı ve tedavi için hekiminize danışın.\n\n#samsun #samsundoktorum #sağlık #diyabet #dünyadiyabetgünü #şekerhastalığı #kanşekeri"
-  },
-  {
    "id": "04",
    "image": "post-04.jpg",
    "caption": "\"Sağlık her şey değildir; ama sağlık olmadan her şey hiçtir.\"\n— Arthur Schopenhauer\n\nSağlıklı bir hafta dileriz. 🌿\n\n#samsun #samsundoktorum #sağlık #gününsözü #sağlıklıyaşam #motivasyon"
@@ -227,5 +222,11 @@
   "post": [
    "2026-11-17"
   ]
- }
+ },
+ "removed": [
+  {
+   "id": "16",
+   "reason": "14 Kasım tarihi geçti; 18.11.2026 paylaşıldı, elle silinecek"
+  }
+ ]
 }
